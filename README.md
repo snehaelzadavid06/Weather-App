@@ -40,7 +40,7 @@ Built using **HTML, CSS, and JavaScript**, with live data fetched from the **Ope
 
 1. Clone the repository
 
-- git clone https://github.com/your-username/Weather-App.git
+- https://github.com/snehaelzadavid06/Weather-App.git
 
 
 2. Navigate into the project
