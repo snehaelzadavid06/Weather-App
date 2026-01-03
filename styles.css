@@ -14,10 +14,10 @@ body{
     max-width: 470px;
    background: linear-gradient(
   135deg,
-  #2b5876 0%,
-  #4e4376 50%,
-  #f7b2d9 85%,
-  #fff1b6 100%
+  #edf45f 0%,
+  #c31a14 50%,
+  #c31979 85%,
+  #fa67f3 100%
 );
     color: #fff;
     margin: 100px auto 0;
