@@ -20,9 +20,6 @@ Built using **HTML, CSS, and JavaScript**, with live data fetched from the **Ope
 
 ## 📸 Screenshots
 
-### Main Page
-![Home](APP_screenshots/main(1).png)
-
 ### Clear Weather
 ![Clear Weather](APP_screenshots/Clear_weather.png)
 
