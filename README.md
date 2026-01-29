@@ -21,19 +21,19 @@ Built using **HTML, CSS, and JavaScript**, with live data fetched from the **Ope
 ## 📸 Screenshots
 
 ### Clear Weather
-![Clear Weather](APP_screenshots/Clear_weather.png)
+![Clear Weather](APP_screenshot/Clear_weather.png)
 
 ### Rainy Weather
-![Rainy Weather](APP_screenshots/Rainy_weather.png)
+![Rainy Weather](APP_screenshot/Rainy_weather.png)
 
 ### Snowy Weather
-![Snowy Weather](APP_screenshots/Snowy_weather.png)
+![Snowy Weather](APP_screenshot/Snowy_weather.png)
 
 ### Cloudy Weather
-![Cloudy Weather](APP_screenshots/cloudy_weather.png)
+![Cloudy Weather](APP_screenshot/cloudy_weather.png)
 
 ### Invalid City Input
-![Invalid City](APP_screenshots/invalid.png)
+![Invalid City](APP_screenshot/invalid.png)
 
 
 ## How to Run Locally
